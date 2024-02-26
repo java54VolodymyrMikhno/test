@@ -1,7 +1,5 @@
 Java-54
-<<<<<<< HEAD
 Git???
 hello friends!
-=======
 Git???
->>>>>>> sprint2
+Hello vasja
